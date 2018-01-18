@@ -1,2 +1,2 @@
 # raduhw
-This a hw app
+This is only a test and therefore is not relevant.
